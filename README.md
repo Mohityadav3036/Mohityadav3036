@@ -13,39 +13,37 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohityadav3036&label=Profile%20views&color=0e75b6&style=flat" alt="mohityadav3036" /> </p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-yadav-33811024a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-yadav-33811024a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohityadav3036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohityadav3036" height="30" width="40" /></a>
+ <!--START_SECTION:waka-->
+
+```txt
+Svelte        16 hrs 4 mins   ███████████████████▓░░░░░   79.31 %
+TypeScript    3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Bash          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+SCSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```
+
+<!--END_SECTION:waka-->
+
+  <p align="start">
+   
+<a href="https://www.linkedin.com/in/mohit-yadav-33811024a/">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mongodb,git,github,react,express,nodejs,nextjs,vscode,postman,powershell,&theme=dark&perline=10" />
+</a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohityadav3036&" alt="mohityadav3036" /></p>
+## 📊 GitHub Stats:
+
+ <div align="center">
+
+ <!-- github streak start -->
+
+<img width=320 src="https://github-readme-streak-stats.herokuapp.com/?user=Mohityadav3036&layout=compact"  />
+
+<!-- github streak end -->
+
+
 
