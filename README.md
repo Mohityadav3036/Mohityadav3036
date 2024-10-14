@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohit303600@gmail.com**
 - 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghat0tkach&label=Profile%20views&color=0e75b6&style=flat" alt="ghat0tkach" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohityadav3036&label=Profile%20views&color=0e75b6&style=flat" alt="mohityadav3036" /> </p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
