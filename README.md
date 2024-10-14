@@ -10,7 +10,7 @@
 - 💬 Ask me about **React,Javascript,Tailwind,Html,Nodejs,MongoDB,Expressjs**
 
 - 📫 How to reach me **mohit303600@gmail.com**
-- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohityadav3036&label=Profile%20views&color=0e75b6&style=flat" alt="mohityadav3036" /> </p>
 
 <div align="left">
