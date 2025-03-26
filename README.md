@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
 <h3 align="center">MERN Stack Developer | DSA in C++ | Competitive Programmer</h3>
 
-- 🔭 I’m currently working on **Astute Lex Servicado**
-
 - 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://mohit-portfolio-alpha.vercel.app/](https://mohit-portfolio-alpha.vercel.app/)
